@@ -2,3 +2,6 @@
 
 ### Eys on the screen
 ### Hands On The Keyboard
+
+## Live Demo
+(https://mian-ali.github.io/RealTime-hands-KeyBoard-typer/)
