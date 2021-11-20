@@ -1,6 +1,6 @@
 ## RealTime Hands KeyBoard typing Speed tester
 
-### Eys on the screen
+### `Eys on the screen`
 ### Hands On The Keyboard
 
 ## Live Demo
